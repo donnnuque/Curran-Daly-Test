@@ -1,0 +1,1 @@
+public enum ProductCode { ult_small, ult_medium, ult_large, onegb; }
